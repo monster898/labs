@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "test:design-patterns": "jest ./design-patterns/*.test.ts --config=../jest.config.js"
+  }
+}

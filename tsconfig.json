@@ -1,0 +1,4 @@
+{
+  "include": ["labs/**/*", "packages/**/*"],
+  "exclude": ["node_modules"]
+}

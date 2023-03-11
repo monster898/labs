@@ -1,5 +1,11 @@
 {
+  "name": "labs",
   "scripts": {
     "test:design-patterns": "jest ./design-patterns/*.test.ts --config=../jest.config.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "webpack": "^5.76.0",
+    "webpack-dev-server": "^4.11.1"
   }
 }
